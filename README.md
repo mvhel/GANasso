@@ -14,6 +14,4 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 * Windows 10
 * NVIDIA GTX 1070
 * cuda 8.0
-* Python 3.5.6
-* pytorch 0.1.12
-* torchvision 0.1.8
+* Working environment: misc/environment.yml
