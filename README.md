@@ -1,5 +1,5 @@
 # GANasso - Generative Adversial neural network Picasso
-Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) and Auxiliary Classifier Generative Adversial Networks (ACDCGAN) for MNIST [2] and Kaggle dataset
+Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) and Auxiliary Classifier Generative Adversial Networks (ACGAN) for MNIST and Kaggle dataset
 
 * report folder contains a report of this implementation. Look that if you want to get more deep into details
 
