@@ -1,15 +1,13 @@
 # GANasso - Generative Adversial neural network Picasso
 Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) and Auxiliary Classifier Generative Adversial Networks (ACDCGAN) for MNIST [2] and Kaggle dataset
 
-* The network architecture (number of layer, layer size and activation function etc.) of this code differs from the paper.
+* report folder contains a report of this implementation. Look that if you want to get more deep into details
 
-* CelebA dataset used gender lable as condition.
-
-* If you want to train using cropped CelebA dataset, you have to change isCrop = False to isCrop = True.
+* We used both cDCGAN and ACDCGAN to create new paintings from total of 4 different labels.
 
 * you can download
   - MNIST dataset: http://yann.lecun.com/exdb/mnist/
-  - Kaggle dataset
+  - Kaggle dataset: http://academictorrents.com/details/1d154cde2fab9ec8039becd03d9bb877614d351b
   
 ## Development Environment
 
