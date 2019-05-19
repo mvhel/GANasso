@@ -51,3 +51,5 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 * NVIDIA GTX 1070
 * cuda 8.0
 * Working environment: misc/environment.yml
+
+* Inspired by great implementation GANGogh (https://github.com/rkjones4/GANGogh)
