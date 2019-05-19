@@ -12,7 +12,7 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 ## Results
 
 ### MNIST and two labels
-* Generate using fixed noise (fixed_z_). Epochs for mnist are 10 and for two labels are 80
+* Generate using fixed noise (fixed_z_). Epochs for mnist are 10 and for two labels are 150
 
 <table align='center'>
 <tr align='center'>
@@ -43,8 +43,6 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 <td><img src = 'gifs/4labels.gif'>
 </tr>
 </table>
-
-
 
 ## Development Environment
 
