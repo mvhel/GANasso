@@ -22,7 +22,7 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 </tr>
 <tr>
 <td><img src = 'gifs/mnist.gif'></td>
-<td><img src = 'gifs/2labels.gif' width="475" height="482" ></td>
+<td><img src = 'gifs/2labels.gif' width="482" height="482" ></td>
 </tr>
 </table>
 
