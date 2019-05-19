@@ -9,7 +9,7 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
   - MNIST dataset: http://yann.lecun.com/exdb/mnist/ (or torchvision)
   - CIFAR10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html (or torchvision)
   - Wikiart-dataset dataset: http://academictorrents.com/details/1d154cde2fab9ec8039becd03d9bb877614d351b
-  
+  - Flower dataset: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/.
 ## Results
 
 ### MNIST and two labels
@@ -31,10 +31,7 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
   * MNIST cDCGAN - Avg. per epoch: 3 min; Total 150 epochs: 450 min
 
 ### 4 different
-* Generate using fixed noise and 4 different labels. Labels are flowers, portraits, landscapes and abstracts
-
-* Source 1: http://academictorrents.com/details/1d154cde2fab9ec8039becd03d9bb877614d351b
-* Source 2: kukkakuvat
+* Generate using fixed noise and 4 different labels. Labels are portraits, abstracts, landscapes and flowers
 
 <table align='center'>
 <tr align='center'>
@@ -45,6 +42,9 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 </tr>
 </table>
 
+* Learning Time
+  * MNIST cDCGAN - Avg. per epoch: 5 min; Total 100 epochs: 500 min
+  
 ## Development Environment
 
 * Windows 10
