@@ -52,4 +52,4 @@ Pytorch implementation of conditional Generative Adversarial Networks (cDCGAN) a
 * cuda 8.0
 * Working environment: misc/environment.yml
 
-* Inspired by great implementation GANGogh (https://github.com/rkjones4/GANGogh)
+Inspired by great implementation GANGogh (https://github.com/rkjones4/GANGogh)
